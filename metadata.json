@@ -1,0 +1,5 @@
+{
+  "name": " Inventory Stock Planner",
+  "description": "A modern, responsive inventory and stock planning tool to track daily purchases of raw materials and finished goods. It maintains current stock levels and provides AI-powered insights using the Gemini API.",
+  "requestFramePermissions": []
+}
